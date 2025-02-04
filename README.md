@@ -1,3 +1,7 @@
+Converted from poetry to uv cf. [link](https://stackoverflow.com/questions/79118841/how-to-migrate-from-poetry-to-uv-package-manager)
+
+---
+
 # AI Hedge Fund
 
 This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.
