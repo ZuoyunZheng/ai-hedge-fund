@@ -1,3 +1,4 @@
+Check out the paper [TradingAgents](https://arxiv.org/pdf/2412.20138)
 Converted from poetry to uv cf. [link](https://stackoverflow.com/questions/79118841/how-to-migrate-from-poetry-to-uv-package-manager)
 
 ---
