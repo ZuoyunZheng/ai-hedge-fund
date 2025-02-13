@@ -12,6 +12,7 @@ dependencies = [
     "langchain-anthropic==0.3.5",
     "langchain-groq==0.2.3",
     "langchain-openai==0.3",
+    "langchain-ollama>=0.1",
     "langgraph==0.2.56",
     "pandas<3.0.0,>=2.1.0",
     "numpy<2.0.0,>=1.24.0",
@@ -21,6 +22,7 @@ dependencies = [
     "colorama<1.0.0,>=0.4.6",
     "questionary<3.0.0,>=2.1.0",
     "rich<14.0.0,>=13.9.4",
+    "ollama>=0.4"
 ]
 name = "ai-hedge-fund"
 version = "0.1.0"
